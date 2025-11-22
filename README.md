@@ -1,16 +1,16 @@
-## Hi there 👋
+# HELLUR!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+some+cheese%2C+it's+yummi!;also%2C+can+you+get+me+some+too%3F)](https://git.io/typing-svg)
 
-<!--
-**ToastedBeanz/ToastedBeanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on the Experience_Games website! it's not bublic on github, i still only have it in my files 😅
 
-Here are some ideas to get you started:
+I’m currently learning some `javascript`, as of making this, i only know, like... the very basics. as in: i only know how to assign variables and print to the console.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking for help with `javascript` in general, so feel free to, and please and thank you, give me some tips!
+
+Ask me about anything music, i'm always all-ears (literaly!).
+
+
+
+⚡ Fun fact: Did you know i like cheese? especially the feta kind.
+
+
